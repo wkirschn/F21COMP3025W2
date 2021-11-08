@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">F21COMP3025W2 - Lesson 2</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="button">Click Me!</string>
+    <string name="button_text">Log In!</string>
+</resources>
